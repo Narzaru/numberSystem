@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">numberSystem</string>
+    <string name="input_suggestion">input number</string>
+</resources>
